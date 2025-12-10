@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow>=2.0   # 仅当使用 autoencoder 时需要
